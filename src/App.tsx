@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header-MF2">
-        MicroFrontend 2
+        MicroFrontend 2: React
       </header>
     </div>
   );
